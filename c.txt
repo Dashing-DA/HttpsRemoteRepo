@@ -1,1 +1,25 @@
 ne w changes to c
+ne w changes to c" >> c.txt
+
+
+
+
+
+
+
+
+
+echo ne w changes to c >> c.txt
+
+
+
+
+
+
+
+
+
+
+
+
+echo 'ne w changes to c
